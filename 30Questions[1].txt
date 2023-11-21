@@ -1,0 +1,32 @@
+Questions:
+
+ Java program that takes two numbers and display the product of two numbers.
+ Java program to print the sum, multiply, subtract, divide and remainder of two numbers. 
+ Java program that takes five numbers as input to calculate and print the average of the numbers. 
+ Java Program to find area of rhombus. 
+ Java program to swap two variables without using third variable. 
+6. Java program to check whether Java is installed on your computer or not. 
+ Java program to print the ascii value of a given character. 
+8. Java program to display the system time. 
+ Java program to convert seconds to hour, minute, and seconds. 
+ Java program to compute the sum of the first 100 prime numbers. 
+ Java program to check vowel or consonant. 
+ Java program to find factorial of any number. 
+ Java program to check if a positive number is a palindrome or not. 
+ Java program to check whether the number is a prime number or not. 
+ Java program that reads an integer and check whether it is negative, zero, or positive. 
+ Java program to display the multiplication table of a given integer. 
+ Write a Java program to display the n terms of odd natural number and their sum.
+ Java program to create a simple calculator 
+ Java program to print Fibonacci series of n terms where n is input by user using loop 
+ Java program to print out all Armstrong numbers between 1 to 600 using loop 
+ Java Program to Accept the Marks of a Student and find Total Marks, Percentage and Grade accordingly
+ Write a java program to reverse a String
+ Write a java program to get the length of a given string. 
+24. Java program to cyclically rotate a given array clockwise by one.
+25. Java program to print all unique element in an array.
+26. Java Program to Sort the Array in an Ascending Order.
+27. Java Program to Sort the Array in a Descending Order.
+28. Java Program to Sort Names in an Alphabetical Order.
+29. Java Program to Display Transpose Matrix.
+30. Java Program to Search Key Elements in an Array.
